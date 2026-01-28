@@ -1,0 +1,55 @@
+@charset "utf-8";
+/*CSS Document */
+@font-face {
+  font-family: "KleaFloridan";
+  src: url("Dokumenti/KleaFloridan.ttf") format("truetype");
+}
+
+.naslov{
+    font-family:"KleaFloridan", "sans-serif";
+    font-size: 60px;
+    color:white;
+    width:310px;
+    background-color:darkblue;
+    padding; 20px;
+}
+.podnaslov{
+   color:darkblue;
+   width:210px;
+   background-color:white;
+   padding; 20px; 
+}
+h2{
+   color:#466D1D;
+   }
+.pozadina{
+    background-image:
+    url("Slike/pozadina.JPG");
+}
+.pozadina2{
+    background-color: #D1FFBD;
+}
+.pozadina3{
+    background-color: darkred;
+}
+.paragraf{
+    color:black; 
+    width:600px; 
+    background-color:rgba(255, 255, 255, 0.8); 
+    padding:20px
+}
+.paragraf2{
+    color:black;
+    width:1000px;
+    background-color:lightgreen;
+    padding; 30px;
+    }
+.paragraf3{
+    color:black;
+    width:1445px;
+    background-color:white;
+    padding:30px;
+}
+img{
+    height: 300px;
+}
